@@ -1,0 +1,6 @@
+! Title: uBlock filters – random stuff
+! Description: Remove random elements on random sites
+
+##[src="https://nxbrew.com/wp-content/uploads/2019/05/cropped-NXbrewlogo-1.png"]
+
+
